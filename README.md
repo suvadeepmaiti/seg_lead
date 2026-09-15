@@ -24,7 +24,7 @@ parts of the study in one reproducible codebase.
 ```text
 .
 |-- phantom/    # Phantom code, data, references, and results
-|-- human/      # De-identified human data, code, and results
+|-- human/      # code, and results
 |-- .gitattributes
 |-- .gitignore
 `-- README.md
