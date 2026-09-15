@@ -72,9 +72,4 @@ If PowerShell blocks activation, run
 In VS Code, select `.venv/bin/python` on macOS or
 `.venv\Scripts\python.exe` on Windows as the Python interpreter.
 
-## Data governance
 
-The human work area contains de-identified EEG data. Do not add participant
-keys, consent forms, direct identifiers, or re-identification metadata. Confirm
-that repository access and publication are consistent with the applicable
-ethics approval and institutional data-sharing policy.
